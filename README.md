@@ -5,4 +5,4 @@ Founder of Tesla
 
 
 
-Fuck voie420
+Business inquiries: Elonmusk.business@gmail.com
