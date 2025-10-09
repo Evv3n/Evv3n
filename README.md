@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I'm a cracked fullstack developer. <br>I wear 15 fedoras
 
 
