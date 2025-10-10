@@ -1,5 +1,5 @@
 # About Me:
-Noob dev. <br>I wear 15 fedoras
+Noob dev. 
 
 
 # 💻 Tech Stack:
