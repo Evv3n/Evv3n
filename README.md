@@ -1,5 +1,5 @@
 # About Me:
-I'm a cracked fullstack developer. <br>I wear 15 fedoras
+Noob dev. <br>I wear 15 fedoras
 
 
 # 💻 Tech Stack:
